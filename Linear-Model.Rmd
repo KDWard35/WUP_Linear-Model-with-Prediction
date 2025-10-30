@@ -136,6 +136,8 @@ anova(model.1, model.2)
 
 The sum of Residual sum of squares errors of model2 is greater than model1. The difference of the 2 models is -25.189.
 
+## Conclusion 
 
+I found that model 3 was the best model for the data because the other two models were nested within it. This made the correlation of model 3 the highest, proving it is the best. The other two were not as good but model 1 is better than model 2. I found this by comparing the two and seeing that model 2 has a a higher residual sum of square errors, which means it is worse.
 
 
