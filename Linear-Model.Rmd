@@ -97,5 +97,10 @@ cor(SIMS~ARM+GRIP,data=data)
 
 The correlation of Model3 is higher than the other two which shows it is a better model.
 
+## Inferential Results
 
+```{r}
+model.3 <- lm(SIMS~ARM+GRIP,data=data)
+summary.lm(model.3)
+```
 
