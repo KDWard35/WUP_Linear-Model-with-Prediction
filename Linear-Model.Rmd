@@ -1,0 +1,20 @@
+---
+title: "Linear-Model with Prediction"
+author: "Edward Gomez"
+date: "2025-10-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE)
+require(tidyverse)
+require(tigerstats)
+require(knitr)
+data <- read.csv(file="https://onlinestatbook.com/case_studies_rvls/physical_strength/data.txt",sep="",header=TRUE)  
+```
+
+
+
+
+
+
